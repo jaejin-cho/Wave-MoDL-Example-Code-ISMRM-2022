@@ -1,5 +1,4 @@
 # Wave-MoDL-Example-Code-ISMRM-2022
-# https://github.com/jaejin-cho/Wave-MoDL-Example-Code-ISMRM-2022
 
 Please find the updated code here:
 https://github.com/jaejin-cho/wave-modl
